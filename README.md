@@ -2,10 +2,10 @@
 
 ## Group Information
 - **Group Members:** 
-  - Shafayat Hasnat Rubaiyat (ID: 2022-3-60-029)
-  - MD Riyad Hossain (ID: 2022-3-60-156)
-  - M. Nura Alam Naim (ID: 2022-3-60-123)
-  - Mehejarin Aklima Jerin (ID: 2022-3-60-325)
+  - Shafayat Hasnat Rubaiyat
+  - MD Riyad Hossain
+  - M. Nura Alam Naim
+  - Mehejarin Aklima Jerin
 
 ## Project Overview
 This project implements and compares multiple deep learning architectures for Brain Tumor classification. The goal is to accurately classify different types of brain tumors using computer vision techniques, comparing traditional CNN architectures with modern transfer learning approaches and hybrid models.
@@ -119,8 +119,8 @@ This project implements and compares multiple deep learning architectures for Br
 ## How to Run the Code
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/Infi9itee/AI_GRP_3_Brain_Tumor_Classification
-   cd AI_GRP_3_Brain_Tumor_Classification
+   git clone https://github.com/infi9itea/Brain-Tumor-Classification
+   cd Brain-Tumor-Classification
 
 2. **Install Dependencies:**
    ```bash
