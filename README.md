@@ -1,7 +1,6 @@
 # AI Brain Tumor Classification Project
 
 ## Group Information
-- **Group Number:** 3
 - **Group Members:** 
   - Shafayat Hasnat Rubaiyat (ID: 2022-3-60-029)
   - MD Riyad Hossain (ID: 2022-3-60-156)
